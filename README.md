@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋 I'm Kavya Sri
 
-<!--
-**kavyasri1995/kavyasri1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Engineer | Python Developer | Power BI Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about building efficient data pipelines, transforming raw data into meaningful insights, and solving real-world problems through data.  
+Currently, I'm expanding my skills in cloud technologies and big data tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming: Python, SQL
+- Data Engineering: ETL Pipelines, Data Cleaning, Data Transformation
+- Tools: Power BI, GitHub, Jupyter Notebooks
+- Databases: PostgreSQL, MySQL
+- (Learning) AWS, Apache Airflow
+
+## 📈 Recent Project
+- **Nutrition Data Analysis and Visualization**: Analyzed health data and built an interactive Power BI dashboard.  
+  [View Project Here](https://github.com/kavyasri1995/Project1)
+
+## 📫 How to reach me
+- [LinkedIn](www.linkedin.com/in/kavyareddy2001)
+
+---
+
+⭐ Feel free to check out my projects and connect with me!
